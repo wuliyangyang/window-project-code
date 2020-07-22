@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Template version="1.0">
+	<Group>TM Projects</Group>
+	<Name>TM Base Project</Name>
+	<Detail>A base application used to create for Test project.</Detail>
+	<ProjectFile>TMBase.prj</ProjectFile>
+	<ProjectType>TMBASE_TYPE</ProjectType>
+</Template>
+

@@ -1,0 +1,30 @@
+{
+    "modules": 1,
+    "processes": [
+        {
+            "args": "-u slot -d $(ProjectWorkDir)\\TM  -s slots -f $(ZmqPortFileFullPath)",
+            "bin": "TestEngine\\test_engine.lua",
+            "execute": "$(ProjectWorkDir)\\lua\\lua",
+            "name": "Engine",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "-s slot -c -f  $(ZmqPortFileFullPath)",
+            "bin": "sequencer\\sequencer",
+            "execute": "",
+            "name": "Sequencer",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "-s slots -f  $(ZmqPortFileFullPath)",
+            "bin": "StateMachine\\StateMachine.lua",
+            "execute": "$(ProjectWorkDir)\\lua\\lua",
+            "name": "StateMachine",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        }
+    ],
+    "slots": 1
+}

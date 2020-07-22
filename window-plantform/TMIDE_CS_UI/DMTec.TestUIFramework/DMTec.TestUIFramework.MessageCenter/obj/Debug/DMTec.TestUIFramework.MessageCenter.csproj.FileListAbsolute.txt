@@ -1,0 +1,33 @@
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Debug\DMTec.TestUIFramework.MessageCenter.csprojResolveAssemblyReference.cache

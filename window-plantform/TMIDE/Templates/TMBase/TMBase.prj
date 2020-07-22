@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project version="1.0">
+	<ProjectName>TM Project</ProjectName>
+	<ProjectType>TMBASE_TYPE</ProjectType>
+	<ProjectPredilection>TMBaseDefault</ProjectPredilection>
+	<CsvFiles>
+		<!--CsvFile filePath="C:/IDE1/TestManager/Win32/Debug/Projects/aaa/TM/Profile/dummy__042120.csv" isFocus="1" isEncrypt="0"/-->
+	</CsvFiles>
+	
+	<ConfigJsons>
+		<!--ConfigJson filePath="C:/IDE1/TestManager/Win32/Debug/Projects/aaa/TM/TesterConfig/config.json" isFocus="1"/-->
+	</ConfigJsons>
+
+	<ZmqPortJson>$(ProjectDir)/TM/TesterConfig/zmqports.json</ZmqPortJson>
+	
+	<ProjectWorkPath>$(ProjectDir)</ProjectWorkPath>
+
+	<LuaScriptSearchPaths>
+		<LuaScriptPath displayName="TM" filePath="$(ProjectWorkDir)/TM" isRecursionSubDir="1"/> 
+		<LuaScriptPath displayName="Lua" filePath="$(ProjectWorkDir)/Lua" isRecursionSubDir="0"/>
+	</LuaScriptSearchPaths>
+
+	<LuaCSearchPaths>
+		<LuaCPath  filePath="$(ProjectWorkDir)/Lua" isRecursionSubDir="0"/>
+		<LuaCPath  filePath="$(ProjectWorkDir)/Lua/lzmq" isRecursionSubDir="0"/> 
+	</LuaCSearchPaths>
+		
+</Project>

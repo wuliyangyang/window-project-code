@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<ErrorMsgLevel>
+		<msg name="Send command to StateMachine fail Please go to the chamber to some troubleshooting" id="1001" level="3"/>
+		<msg name="GreenTea_UpFail" id="1051" level="2"/>
+		<msg name="GreenTea_UpFail_NoSocket" id="1052" level="2"/>
+		<msg name="GreenTea_UpFail_NoDut" id="1053" level="2"/>
+		<msg name="GreenTea_UpOverTime Please go to the chamber to some troubleshooting" id="1054" level="3"/>
+		<msg name="GreenTea_DownFail Please go to the chamber to some troubleshooting" id="1055" level="3"/>
+		<msg name="GreenTea_DownOverTime Please go to the chamber to some troubleshooting" id="1056" level="3"/>
+		<msg name="GreenTea_ConnectError Please go to the chamber to some troubleshooting" id="1057" level="3"/>
+		<msg name="GreenTea_MultiUpFail Please go to the chamber to some troubleshooting" id="1058" level="3"/>
+		<msg name="GreenTea_CheckAirFail" id="1059" level="2"/>
+		<msg name="GreenTea_CheckAirOverTime" id="1060" level="2"/>
+		<msg name="GreenTea_FinishOverTime Please go to the chamber to some troubleshooting" id="1061" level="3"/>
+		<msg name="GreenTea_UpFail_DropSocket Please go to the chamber to some troubleshooting" id="1062" level="3"/>
+		<msg name="GreenTea_UpFail_SENSOR_B_FAIL Please go to the chamber to some troubleshooting" id="1063" level="3"/>
+		
+		<msg name="Gimbal_MoveOverTime Please go to the chamber to some troubleshooting" id="1102" level="3"/>
+		<msg name="Gimbal_TestDFail Please go to the chamber to some troubleshooting" id="1101" level="3"/>
+		<msg name="Gimbal_MoveoneFail Please go to the chamber to some troubleshooting" id="1103" level="3"/>
+		<msg name="Gimbal_TestDoneOverTime Please go to the chamber to some troubleshooting" id="1104" level="3"/>
+		<msg name="Gimbal_ConnectError Please go to the chamber to some troubleshooting" id="1105" level="3"/>
+		<msg name="Gimbal_X_AxisMoveFail Please go to the chamber to some troubleshooting" id="1106" level="3"/>
+		<msg name="Gimbal_Y_AxisMoveFail Please go to the chamber to some troubleshooting" id="1107" level="3"/>
+		<msg name="Gimbal_Z_AxisMoveFail Please go to the chamber to some troubleshooting" id="1108" level="3"/>
+		<msg name="Gimbal_DUTOutFail Please go to the chamber to some troubleshooting" id="1109" level="3"/>
+		<msg name="Gimbal_DUTInFail Please go to the chamber to some troubleshooting" id="1110" level="3"/>
+		<msg name="Gimbal_DoorMoveFail Please go to the chamber to some troubleshooting" id="1111" level="3"/>
+		<msg name="Gimbal_PogoUpFail Please go to the chamber to some troubleshooting" id="1112" level="3"/>
+		<msg name="Gimbal_SelfCheckFail Please go to the chamber to some troubleshooting" id="1113" level="3"/>
+		<msg name="Gimbal_SelfCheckOverTime Please go to the chamber to some troubleshooting" id="1114" level="3"/>
+		<msg name="Gimbal_DropSocket Please go to the chamber to some troubleshooting" id="1115" level="3"/>
+		
+		<msg name="Scanner_ConnectError Please go to the chamber to some troubleshooting" id="1151" level="3"/>
+		<msg name="Scanner_OverTime Please go to the chamber to some troubleshooting" id="1152" level="3"/>
+		<msg name="Scanner_SendMultiError Please go to the chamber to some troubleshooting" id="1153" level="3"/>
+		
+		<msg name="SNQuene_NumError Please go to the chamber to some troubleshooting" id="1201" level="5"/>
+		
+		<msg name="ZLogger_UnLiving Please go to the chamber to some troubleshooting" id="1251" level="3"/>
+
+
+		<msg name="SelfCheck_SendCmdFail Please go to the chamber to some troubleshooting" id="1301" level="3"/>
+		<msg name="SelfCheck_SendStartFail Please go to the chamber to some troubleshooting" id="1302" level="3"/>
+		<msg name="SelfCheck_SendErrorString Please go to the chamber to some troubleshooting" id="1303" level="3"/>
+
+		<msg name="PogoPinUseLimitAlarm Please replace the pogopin. after replace you need to run TMSync application with Parameter 2 to count again" id="1351" level="0"/>
+
+		<msg name="GimbalRecvErrorCmd Please go to the chamber to some troubleshooting" id="1401" level="5"/>
+ 
+		
+	</ErrorMsgLevel>
+
+</Config>

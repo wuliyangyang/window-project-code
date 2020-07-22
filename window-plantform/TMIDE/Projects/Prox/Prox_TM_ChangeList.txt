@@ -1,0 +1,770 @@
+****************readMe first****************
+1.comment:
++ :add a new issue or function.
+- :remove useless or error function.
+x :fix some exist bug.
+* :modify exist function.
+****************readMe first****************
+
+********************************************
+SW version  : V1.7.3
+Author      : Yuekie
+Date        : 2018/09/19
+Change List :
+* update TMSync_Prox release version V1.26.17.360(right one).
+********************************************
+
+********************************************
+SW version  : V1.7.2
+Author      : Yuekie
+Date        : 2018/09/19
+Change List :
+- remove motion reset by SM.
+* update TMSync_Prox release version V1.26.17.360
+  * allow control board send two cmd at the same time(semi).
+  + add delay by config file before test start(semi).
+  + add raster trigger tip message box.
+********************************************
+
+********************************************
+SW version  : V1.7.1
+Author      : Yuekie
+Date        : 2018/09/05
+Change List :
+* update TMSync_Prox release version V1.26.17.359
+  + add air check function for semi prox.
+* update ProxUI V2.0.2.2
+  add UUT enable/disable function.
+********************************************
+
+********************************************
+SW version  : V1.7.0
+Author      : Yuekie
+Date        : 2018/08/19
+Change List :
+* update TMSync_Prox release version V1.26.17.358
+  + add hardware reset successful tip while do reset manually.
+  x some condition can not clear ERROR status bug.
+********************************************
+
+********************************************
+SW version  : V1.6.9
+Author      : Yuekie
+Date        : 2018/08/18
+Change List :
+* update TMSync_Prox release version V1.26.17.357
+  + add hardware reset count while start test fail.
+  + add hardware reseting flag.
+* reduce fixture motion retry time from 3 to 2.
+********************************************
+
+********************************************
+SW version  : V1.6.8
+Author      : Yuekie
+Date        : 2018/08/17
+Change List :
+* update TMSync_Prox release version V1.26.17.356
+  x fix receive reset board data bug.
+********************************************
+
+********************************************
+SW version  : V1.6.7
+Author      : Yuekie
+Date        : 2018/08/17
+Change List :
+* update TMSync_Prox release version V1.26.17.355
+  * trim sync log.
+  * update reset cmd.
+  * reply robot query cmd immediately.
+- remove logger.lua invalid log print.
+********************************************
+
+********************************************
+SW version  : V1.6.6
+Author      : zhibin.zhang
+Date        : 2018/08/14
+Change List :
+* remove chip1 check and reset
+x fix reset board name bug
+* update TMSync_Prox release version V1.26.17.354
+  * set Prox state to error after hardware reset fail.
+  * decrease reset delay time from 2000ms to 300ms.
+********************************************
+
+********************************************
+SW version  : V1.6.5
+Author      : Yuekie
+Date        : 2018/08/13
+Change List :
+* add error string item for McoBaord error report.
+* update TMSync_Prox release version V1.26.17.352
+  + add auto hardware reset when fixture up or out fail
+* fix TM can not parse minus value bug.
+- remove engine echo.
+* update TMSync_Prox release version V1.26.17.353
+  * trim statemachine motion logic.
+********************************************
+
+********************************************
+SW version  : V1.6.4
+Author      : Yuekie
+Date        : 2018/08/13
+Change List :
+* update TMSync_Prox release version V1.26.17.350
+  * new reset board
+  - remove reset board2
+* fix overwrite print bug.
+* update TMSync_Prox release version V1.26.16.350
+  x fix reconnect robot bug.
+********************************************
+
+********************************************
+SW version  : V1.6.3
+Author      : Yuekie
+Date        : 2018/08/13
+Change List :
+* update ProxUI V2.0.2.1
+  + add start mode parameter.
+  + add loop test function.
+********************************************
+
+********************************************
+SW version  : V1.6.2
+Author      : zhibin.zhang
+Date        : 2018/08/11
+Change List :
+* update TMSync_Prox release version V1.26.17.349
+  + add robot reconnect function,sync will keep run when robot disconnect.
+  x fix reset bug
+* change PROX_Test.csv:change start test timeout from 8s to 13s
+- remove LogRemover process temporarily
+********************************************
+
+********************************************
+SW version  : V1.6.1
+Author      : zhibin.zhang
+Date        : 2018/08/10
+Change List :
+* update ProxUI V2.0.2.0
+  * hide starttest
+* overwrite print function as logger:info. x fix parse sn fail bug while led board disconnect.
+********************************************
+
+********************************************
+SW version  : V1.6.0
+Author      : zhibin.zhang
+Date        : 2018/08/07
+Change List :
+* remove chip2 reset and verify
+********************************************
+
+********************************************
+SW version  : V1.5.9
+Author      : Yuekie
+Date        : 2018/08/07
+Change List :
+x fix SM switch bug while error happen.
+x fix restBoard callback
+********************************************
+
+********************************************
+SW version  : V1.5.8
+Author      : zhibin.zhang
+Date        : 2018/08/07
+Change List :
+* update TMSync_Prox release version V1.26.17.348
+  x fix resetBoard callback bug
+********************************************
+
+********************************************
+SW version  : V1.5.7
+Author      : Yuekie
+Date        : 2018/08/06
+Change List :
+* update TMSync_Prox release version V1.26.17.347
+  x fix sub UI status format bug.
+********************************************
+
+********************************************
+SW version  : V1.5.6
+Author      : zhibin.zhang
+Date        : 2018/08/06
+Change List :
+* update TMSync_Prox release version V1.26.17.346
+  x fix reset command again
+********************************************
+
+********************************************
+SW version  : V1.5.5
+Author      : zhibin.zhang
+Date        : 2018/08/06
+Change List :
+* update TMSync_Prox release version V1.26.17.345
+  x fix reset command
+********************************************
+
+********************************************
+SW version  : V1.5.4
+Author      : zhibin.zhang
+Date        : 2018/08/04
+Change List :
+* update TMSync_Prox release version V1.26.17.344
+  x fix callback bug
+********************************************
+
+********************************************
+SW version  : V1.5.3
+Author      : zhibin.zhang
+Date        : 2018/08/04
+Change List :
+* update TMSync_Prox release version V1.26.17.343
+  x fix config bug
+********************************************
+
+********************************************
+SW version  : V1.5.2
+Author      : zhibin.zhang
+Date        : 2018/08/03
+Change List :
+* update TMSync_Prox release version V1.26.17.342
+  + add auto hardware reset
+********************************************
+
+********************************************
+SW version  : V1.5.1
+Author      : zhibin.zhang
+Date        : 2018/08/02
+Change List :
+* update TMSync_Prox release version V1.26.17.340
+  + add when come out continuously 3 times fails in the slot1 test, send error to UI;
+  + add hardware reset module
+* update ProxUI V2.0.1.9
+  + add uipub to sync
+* update TMSync_Prox release version V1.26.17.341
+  * trim hardware reset logic.
+* add UI pub port.
+********************************************
+
+********************************************
+SW version  : V1.5.0
+Author      : zhibin.zhang
+Date        : 2018/07/26
+Change List :
+  x fix chip reset bug
+********************************************
+
+********************************************
+SW version  : V1.4.9
+Author      : zhibin.zhang
+Date        : 2018/07/25
+Change List :
+* update TMSync_Prox release version V1.26.17.339
+  x fix reset bug when reconnect robot 
+********************************************
+
+********************************************
+SW version  : V1.4.8
+Author      : Yuekie
+Date        : 2018/07/25
+Change List :
+* update TMSync_Prox release version V1.26.17.338
+  * reduce some communication timeout.
+* modify SM reply start request before motion control. 
+********************************************
+
+********************************************
+SW version  : V1.4.7
+Author      : Yuekie
+Date        : 2018/07/24
+Change List :
+* add pcall for remove log process.
+* read log valid days from config file.
+* update TMSync_Prox release version V1.26.17.337
+  * optimize communication logic with robot.
+********************************************
+
+********************************************
+SW version  : V1.4.6
+Author      : Yuekie
+Date        : 2018/07/23
+Change List :
+* update TMSync_Prox release version V1.26.17.335
+  - remove UI reply.
+  - remove reset board relate code.
+  * set Prox default status as Error.will clear after fixture reset.
+  - remove sequencer data sub.
+  * add fixture reset info sub.
+* update TMSync_Prox release version V1.26.17.336
+  * add sync communication log with robot.
+* update ProxUI V2.0.1.8
+  * add more error report data saving in the ”c:\vault\intelli_log\ErrMsg.csv”
+  * move fixture reset request from SYNC to SM.
++ add fixture motion control while test start event is sent from UI.
++ add fixture motion reset time -z as SM parameter.
++ add fixture motion auto reset during the normal test.
++ add fixture auto reset at most 3 times(follow the parameter -z).
+* modify engine motion reply with error code and error string.
+* add fixture reset while start the TM.
+* add fixture id for SM zmq reply.
+* test will not continue while fixture in/down fail.
+- remove SM profile parameter.
+- remove control board unvarnished transmission connection while start the TM(semi).
+- remove tester type parameter for engine.
+x fix grey chip reset cmd error.
++ add log data delete thread(log more than 5 days).
++ add McoBoard connection status check before send cmd.
+* add parameter for launcher process log saving or not(saving log as default). 
+********************************************
+
+********************************************
+SW version  : V1.4.4
+Author      : Yuekie
+Date        : 2018/07/21
+Change List :
+* update TMSync_Prox release version V1.26.17.334
+  x fix some motion fail did not report error.
+* add grey chip reset into TM motion control.
+* update ProxUI V2.0.1.7
+  * Save statistic info into local bin file.
+********************************************
+
+********************************************
+SW version  : V1.4.3
+Author      : zhibin.zhang
+Date        : 2018/07/20
+Change List :
+* update TMSync_Prox release version V1.26.17.333
+  x fix reset bug when open tm
+********************************************
+
+********************************************
+SW version  : V1.4.2
+Author      : zhibin.zhang
+Date        : 2018/07/20
+Change List :
+* update TMSync_Prox release version V1.26.17.332
+  + add reset fixture when open tm
+  x fix auto reset bug
+  * robot callback change to parse more then one message
+********************************************
+
+********************************************
+SW version  : V1.4.1
+Author      : zhibin.zhang
+Date        : 2018/07/19
+Change List :
+* update TMSync_Prox release version V1.26.17.331
+  + add auto reset module
+********************************************
+
+********************************************
+SW version  : V1.4.0
+Author      : Yuekie
+Date        : 2018/07/17
+Change List :
+* update TMSync_Prox release version V1.26.17.330
+  * set prox initial status as fail.
+* move sync process as last one for auto tester.
+********************************************
+
+********************************************
+SW version  : V1.3.9
+Author      : Yuekie
+Date        : 2018/07/16
+Change List :
+* update TMSync_Prox release version V1.26.17.328
+  x fix parse tester reset bug.
+* update TMSync_Prox release version V1.26.17.329
+  x only enable Prox status change while tester is not error.
+* optimize fixture control logic.
+********************************************
+
+********************************************
+SW version  : V1.3.8
+Author      : Yuekie
+Date        : 2018/07/16
+Change List :
+* add reset request relpy for sync.
+* update TMSync_Prox release version V1.26.17.327
+  * add more sequencer sub data log.
+********************************************
+
+********************************************
+SW version  : V1.3.7
+Author      : Yuekie
+Date        : 2018/07/15
+Change List :
+* update TMSync_Prox release version V1.26.17.326
+  * only “ERROR” status will skip the test start.
+********************************************
+
+********************************************
+SW version  : V1.3.6
+Author      : zhibin.zhang 
+Date        : 2018/07/05
+Change List :
+* only enable control board connection for semi tester.
+x fix control board port wrong key bug.
+********************************************
+
+********************************************
+SW version  : V1.3.5
+Author      : zhibin,zhang 
+Date        : 2018/07/05
+Change List :
++ add fixture reset function for UI and Sync.
+* add TMSync_Prox release version V1.26.17.325
+  + add uiREP module
+  - remove connect reset board
+* update ProxUI V2.0.1.6
+  + add reset button and syncReq 
+********************************************
+
+********************************************
+SW version  : V1.3.4
+Author      : Yuekie
+Date        : 2018/06/26
+Change List :
++ add fixture reset function for SM.
+* add TMSync_Prox release version V1.26.17.322
+  * add Control Board module
+* add TMSync_Prox release version V1.26.17.323
+  * trim semi and full auto code as two mode.
+  + add control board unvarnished transmission for TM.
+* add TMSync_Prox release version V1.26.17.324
+  + add fixture reset module
+********************************************
+
+********************************************
+SW version  : V1.3.3
+Author      : Yuekie
+Date        : 2018/06/25
+Change List :
++ add control board unvarnished transmission by TMSync.
+********************************************
+
+********************************************
+SW version  : V1.3.2
+Author      : zhibin.zhang
+Date        : 2018/05/07
+Change List :
+* set pub test state by mecp
+* update ProxUI V2.0.1.4
+  + add mtcp connect warnning
+********************************************
+
+********************************************
+SW version  : V1.3.1
+Author      : zhibin.zhang
+Date        : 2018/05/03
+Change List :
+* update ProxUI V2.0.1.3
+  + fix log debug
+********************************************
+
+********************************************
+SW version  : V1.3.0
+Author      : zhibin.zhang
+Date        : 2018/04/27
+Change List :
+* update ProxUI V2.0.1.2
+  + remove all log
+********************************************
+
+********************************************
+SW version  : V1.2.9
+Author      : zhibin.zhang
+Date        : 2018/04/24
+Change List :
+* update ProxUI V2.0.1.1
+  + add log information of engine, logger, stjatemachine and sequence 
+********************************************
+
+********************************************
+SW version  : V1.2.8
+Author      : zhibin.zhang
+Date        : 2018/04/23
+Change List :
+* update ProxUI V2.0.1.0
+  + set sn length limit to 17-20
+  + add statisticInfoPanel2
+********************************************
+
+********************************************
+SW version  : V1.2.7
+Author      : Yuekie
+Date        : 2018/04/19
+Change List :
+* update ProxUI V2.0.0.9
+  * set sn length limit to 17.
+********************************************
+
+********************************************
+SW version  : V1.2.6
+Author      : zhibin.zhang
+Date        : 2018/04/17
+Change List :
+* update ProxUI V2.0.0.6
+  + add keydown event : using key "F5" to start test
+  + add function : when finish test,change sn label to "UUT"
+* update ProxUI V2.0.0.7
+  + Disable sn input box when all uut is testing
+  * use key “enter” to start the test.
+* update ProxUI V2.0.0.8
+  + add sn can not be empty check.
+  + add sn length must be more than 19 check.
+********************************************
+
+********************************************
+SW version  : V1.2.5
+Author      : Yuekie
+Date        : 2018/04/11
+Change List :
+- remove pl.path require.
+********************************************
+
+********************************************
+SW version  : V1.2.4
+Author      : Yuekie
+Date        : 2018/04/10
+Change List :
++ add logger module instead of datalogger.
+********************************************
+
+********************************************
+SW version  : V1.2.3
+Author      : Yuekie
+Date        : 2018/04/09
+Change List :
++ use pcall for data process in datalogger module.
+********************************************
+
+********************************************
+SW version  : V1.2.2
+Author      : Yuekie
+Date        : 2018/04/09
+Change List :
++ add collectgarbage function for datalogger module.
+********************************************
+
+********************************************
+SW version  : V1.2.1
+Author      : Yuekie
+Date        : 2018/04/09
+Change List :
+* fix auto tester can not do motion bug.
+********************************************
+
+********************************************
+SW version  : V1.2.0
+Author      : Yuekie
+Date        : 2018/04/08
+Change List :
+* fix datalogger pub msg will cause crash bug.
+********************************************
+
+********************************************
+SW version  : V1.1.9
+Author      : Yuekie
+Date        : 2018/04/04
+Change List :
+* update UI V2.0.0.4
+  x fix pass rate unit bug.
+********************************************
+
+********************************************
+SW version  : V1.1.8
+Author      : Yuekie
+Date        : 2018/04/03
+Change List :
+* update UI V2.0.0.3
+  * disable useless start button.
+  x fix pass rate bug.
+********************************************
+
+********************************************
+SW version  : V1.1.7
+Author      : Yuekie
+Date        : 2018/04/02
+Change List :
+* only enable fixture control for auto tester.
++ add dbdata file for mflex site CM.
+* set upload test data to MTCP as a default setting.
+* update dbdata file name.
+********************************************
+
+********************************************
+SW version  : V1.1.6
+Author      : Yuekie
+Date        : 2018/03/31
+Change List :
+- remove item limit.
++ add test total time item.
+********************************************
+
+********************************************
+SW version  : V1.1.5
+Author      : Yuekie
+Date        : 2018/03/30
+Change List :
+x fix parse wrong mtcp response data cause crash bug.
+********************************************
+
+********************************************
+SW version  : V1.1.4
+Author      : Yuekie
+Date        : 2018/03/30
+Change List :
+x fix mtcp_debug function bug.
+********************************************
+
+********************************************
+SW version  : V1.1.3
+Author      : Yuekie
+Date        : 2018/03/29
+Change List :
++ add module sn item.
++ add slot index item.
+* correct the motion sensor status.
++ add remove dut event function.
+********************************************
+
+********************************************
+SW version  : V1.1.2
+Author      : Yuekie
+Date        : 2018/03/28
+Change List :
+x fix mcoboard connect slot bug.
+x fix mcoboard response data format check bug.
+********************************************
+
+********************************************
+SW version  : V1.1.1
+Author      : Yuekie
+Date        : 2018/03/26
+Change List :
++ add fixture motion control logic. 
+* add TMSync_Prox release version V1.26.17.298
+  * add SM unload DUT state sub
+  * trim process logic.
+********************************************
+
+********************************************
+SW version  : V1.1.0
+Author      : Yuekie
+Date        : 2018/03/23
+Change List :
++ add heart beat and info pub for DataLogger.
+* update UI V2.0.0.2
+  * update UI test status by logger pub result.
+* move UI process as the last start item.
+********************************************
+
+********************************************
+SW version  : V1.0.9
+Author      : Yuekie
+Date        : 2018/03/23
+Change List :
+* update UI V2.0.0.1
+  + add parameter slot/module/csvpath/zmqfilepath
+  + add Muti SM support.
+  + add logger test result sub.
+- remove MTCP test script request.
+* update UI config file.
+* add parameter for UI in startup list file.
+********************************************
+
+********************************************
+SW version  : V1.0.8
+Author      : Yuekie
+Date        : 2018/03/19
+Change List :
++ add read TM version function and test item.
+x fix serial dll lost clear find flag bug.
++ add manual and auto bat file use as TM shortcut.
+* move debug flag and test context data to C disk.
+********************************************
+
+********************************************
+SW version  : V1.0.7
+Author      : Yuekie
+Date        : 2018/03/18
+Change List :
+* update test script.
+* add one process to load test script for sequencer.
+* fix lost replace PorjectWorkPath bug.
+********************************************
+
+********************************************
+SW version  : V1.0.6
+Author      : Yuekie
+Date        : 2018/03/14
+Change List :
+* add TMSync_Prox release version V1.26.17.286.
+  * update default zmqport file path.
+  * rename executable file name as “TMSync_Prox”
+  * disbale vbuf.
+********************************************
+
+********************************************
+SW version  : V1.0.5
+Author      : Yuekie
+Date        : 2018/02/08
+Change List :
+x fix multi SM use wrong pub and rep port bug.
++ add debug flag file.
++ add clear test context function.
++ add Mtcp request test script logic.
+* update sequencer.exe argument -s with -u and -m.
+* access test context and debug flag with module and slot arg.
+* update IDE V2.0.3 : fork the test process with same arguments format.
+********************************************
+
+********************************************
+SW version  : V1.0.4
+Author      : Yuekie
+Date        : 2018/02/07
+Change List :
++ add test context for all test process.
+* rename log file format
++ add mlbsn and socket sn to test context.
+********************************************
+
+********************************************
+SW version  : V1.0.3
+Author      : Yuekie
+Date        : 2018/02/06
+Change List :
++ add socket sn info in statemachine.
+* rename test item.
++ add request MTCP file for statemachine.
+********************************************
+
+********************************************
+SW version  : V1.0.2
+Author      : Yuekie
+Date        : 2018/02/05
+Change List :
+* update libSerial.dll connect serialport with device name function.
+x fix some DataLogger bugs.
+* rename McoBoard name.
+********************************************
+
+********************************************
+SW version  : V1.0.1
+Author      : Yuekie
+Date        : 2018/02/03
+Change List :
++ add data logger module 
++ add Tcp client and serial port dll.
+********************************************
+
+********************************************
+SW version  : V1.0.0
+Author      : wenliang.dang
+Date        : 2018/01/27
+Change List :
++ add McoBoard drive files.
++ add Prox project files.
+* update LuaSerialport.dll connect serialport with device name function.
+********************************************

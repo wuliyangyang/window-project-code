@@ -1,0 +1,432 @@
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.CSVFileLister.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.FlexChamberUnitControl.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit_OutsideDUT.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedForms.ImageShowDockForm.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.GenericLedPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedArrayPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedLabel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SignalLamp.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TMHeartbeatLamp.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoggerTabControl.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.NamedLed.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SNScanner.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StationHeartbeatPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimpleInfoPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DutSNInputPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterSimple.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterUnit.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.IPBox.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatisticInfoPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatusLight.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UUT.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UutStateArrayPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnitDockForm.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DockSequenceItemsList.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT_SKT_BarcodeInputBar.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberHeartbeatPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OutsideDutStatusPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.HardwareInfoPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LastResultPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TitleBar.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.AboutWindow.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimple.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberConfigPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnit.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.frmSplash.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoginWindow.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LogWindow.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.MessageBoxEx.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OperatorIdInputWindow.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SequenceItemsLister.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.SnInputDockPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.TMHeartBeatPanel.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.CSVFileLister.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.FlexChamberUnitControl.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit_OutsideDUT.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedForms.ImageShowDockForm.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.GenericLedPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedLabel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoggerTabControl.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.NamedLed.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SNScanner.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StationHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimpleInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DutSNInputPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterSimple.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterUnit.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.IPBox.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatisticInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatusLight.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UUT.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UutStateArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnitDockForm.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DockSequenceItemsList.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT_SKT_BarcodeInputBar.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OutsideDutStatusPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.HardwareInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LastResultPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TitleBar.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.AboutWindow.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimple.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberConfigPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.frmSplash.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoginWindow.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LogWindow.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.MessageBoxEx.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OperatorIdInputWindow.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SequenceItemsLister.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.SnInputDockPanel.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.CSVFileLister.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.FlexChamberUnitControl.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit_OutsideDUT.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedForms.ImageShowDockForm.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.GenericLedPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedLabel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoggerTabControl.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.NamedLed.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SNScanner.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StationHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimpleInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DutSNInputPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterSimple.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterUnit.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.IPBox.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatisticInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatusLight.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UUT.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UutStateArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnitDockForm.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DockSequenceItemsList.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT_SKT_BarcodeInputBar.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OutsideDutStatusPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.HardwareInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LastResultPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TitleBar.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.AboutWindow.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimple.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberConfigPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.frmSplash.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoginWindow.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LogWindow.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.MessageBoxEx.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OperatorIdInputWindow.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SequenceItemsLister.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.SnInputDockPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.CSVFileLister.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.FlexChamberUnitControl.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit_OutsideDUT.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedForms.ImageShowDockForm.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.GenericLedPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedLabel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoggerTabControl.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.NamedLed.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SNScanner.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StationHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimpleInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DutSNInputPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterSimple.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterUnit.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.IPBox.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatisticInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatusLight.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UUT.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UutStateArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnitDockForm.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DockSequenceItemsList.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT_SKT_BarcodeInputBar.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OutsideDutStatusPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.HardwareInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LastResultPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TitleBar.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.AboutWindow.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimple.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberConfigPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.frmSplash.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoginWindow.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LogWindow.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.MessageBoxEx.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OperatorIdInputWindow.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SequenceItemsLister.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.SnInputDockPanel.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\MY\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.CSVFileLister.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.FlexChamberUnitControl.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit_OutsideDUT.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedForms.ImageShowDockForm.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.GenericLedPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedLabel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoggerTabControl.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.NamedLed.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SNScanner.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StationHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimpleInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DutSNInputPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterSimple.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterUnit.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.IPBox.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatisticInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatusLight.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UUT.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UutStateArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnitDockForm.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DockSequenceItemsList.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT_SKT_BarcodeInputBar.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OutsideDutStatusPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.HardwareInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LastResultPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TitleBar.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.AboutWindow.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimple.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberConfigPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.frmSplash.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoginWindow.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LogWindow.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.MessageBoxEx.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OperatorIdInputWindow.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SequenceItemsLister.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.SnInputDockPanel.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\气密性\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.CSVFileLister.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.FlexChamberUnitControl.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit_OutsideDUT.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedForms.ImageShowDockForm.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.GenericLedPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedLabel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoggerTabControl.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.NamedLed.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SNScanner.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StationHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimpleInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DutSNInputPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterSimple.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterUnit.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.IPBox.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatisticInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatusLight.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UUT.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UutStateArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnitDockForm.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DockSequenceItemsList.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT_SKT_BarcodeInputBar.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OutsideDutStatusPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.HardwareInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LastResultPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TitleBar.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.AboutWindow.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimple.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberConfigPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.frmSplash.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoginWindow.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LogWindow.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.MessageBoxEx.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OperatorIdInputWindow.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SequenceItemsLister.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.SnInputDockPanel.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.CSVFileLister.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.FlexChamberUnitControl.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit_OutsideDUT.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedForms.ImageShowDockForm.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.GenericLedPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedLabel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoggerTabControl.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.NamedLed.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SNScanner.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StationHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimpleInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DutSNInputPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterSimple.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterUnit.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.IPBox.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatisticInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatusLight.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UUT.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UutStateArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnitDockForm.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DockSequenceItemsList.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT_SKT_BarcodeInputBar.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OutsideDutStatusPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.HardwareInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LastResultPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TitleBar.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.AboutWindow.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimple.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberConfigPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.frmSplash.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoginWindow.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LogWindow.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.MessageBoxEx.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OperatorIdInputWindow.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SequenceItemsLister.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.SnInputDockPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\bin\Debug\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.CSVFileLister.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.FlexChamberUnitControl.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit_OutsideDUT.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedForms.ImageShowDockForm.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.GenericLedPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LedLabel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoggerTabControl.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.NamedLed.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SNScanner.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StationHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimpleInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DutSNInputPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.FlexChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterSimple.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.AdvancedControls.TesterUnit.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.IPBox.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatisticInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.StatusLight.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UUT.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.UutStateArrayPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnitDockForm.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DockSequenceItemsList.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT_SKT_BarcodeInputBar.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberHeartbeatPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OutsideDutStatusPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.HardwareInfoPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LastResultPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.TitleBar.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.AboutWindow.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberSimple.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberConfigPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.ChamberUnit.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.DUT.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.frmSplash.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LoginWindow.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.LogWindow.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.MessageBoxEx.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.OperatorIdInputWindow.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicControls.SequenceItemsLister.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.BasicForms.SnInputDockPanel.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework\obj\Debug\DMTec.TestUIFramework.csprojResolveAssemblyReference.cache

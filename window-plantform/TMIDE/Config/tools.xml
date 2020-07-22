@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Config>
+	<Tool name="NetTools">$(AppWorkDir)/NetTools</Tool>>
+</Config>
+

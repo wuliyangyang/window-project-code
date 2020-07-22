@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTec.TestUIFramework", "DMTec.TestUIFramework\DMTec.TestUIFramework.csproj", "{68ED9DE8-FDDC-4531-B873-AB8D861DDC0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTec.TestSuite", "DMTec.TestSuite\DMTec.TestSuite.csproj", "{68FFE316-1875-472E-8936-112DC28016EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTec.TestSuite.CommonGUI", "DMTec.TestSuite.CommonGUI\DMTec.TestSuite.CommonGUI.csproj", "{5548EE1A-C378-4F91-A043-3A539602ADB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTec.TestUIFramework.MessageCenter", "DMTec.TestUIFramework.MessageCenter\DMTec.TestUIFramework.MessageCenter.csproj", "{9538C01D-AA5D-451F-994F-1A574B21F3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTec.TestUIFramework.Logger", "DMTec.TestUIFramework.Logger\DMTec.TestUIFramework.Logger.csproj", "{EC99B51C-FA6C-44D1-ABD3-3784226375AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68ED9DE8-FDDC-4531-B873-AB8D861DDC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68ED9DE8-FDDC-4531-B873-AB8D861DDC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68ED9DE8-FDDC-4531-B873-AB8D861DDC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68ED9DE8-FDDC-4531-B873-AB8D861DDC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FFE316-1875-472E-8936-112DC28016EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FFE316-1875-472E-8936-112DC28016EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FFE316-1875-472E-8936-112DC28016EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FFE316-1875-472E-8936-112DC28016EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5548EE1A-C378-4F91-A043-3A539602ADB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5548EE1A-C378-4F91-A043-3A539602ADB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5548EE1A-C378-4F91-A043-3A539602ADB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5548EE1A-C378-4F91-A043-3A539602ADB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9538C01D-AA5D-451F-994F-1A574B21F3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9538C01D-AA5D-451F-994F-1A574B21F3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9538C01D-AA5D-451F-994F-1A574B21F3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9538C01D-AA5D-451F-994F-1A574B21F3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC99B51C-FA6C-44D1-ABD3-3784226375AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC99B51C-FA6C-44D1-ABD3-3784226375AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC99B51C-FA6C-44D1-ABD3-3784226375AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC99B51C-FA6C-44D1-ABD3-3784226375AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

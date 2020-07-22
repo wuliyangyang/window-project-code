@@ -1,0 +1,364 @@
+****************readMe first****************
+1.comment:
++ :add a new issue or function.
+- :remove useless or error function.
+x :fix some exist bug.
+* :modify exist function.
+****************readMe first****************
+
+********************************************
+SW version  : V1.26.17.360
+Author      : Yuekie
+Date        : 2018/09/19
+Change List :
+* allow control board send two cmd at the same time(semi).
++ add delay by config file before test start(semi).
++ add raster trigger tip message box.
+********************************************
+
+********************************************
+SW version  : V1.26.17.359
+Author      : Yuekie
+Date        : 2018/09/05
+Change List :
++ add air check function for semi prox.
+********************************************
+
+********************************************
+SW version  : V1.26.17.358
+Author      : Yuekie
+Date        : 2018/08/19
+Change List :
++ add hardware reset successful tip while do reset manually.
+x some condition can not clear ERROR status bug.
+********************************************
+
+********************************************
+SW version  : V1.26.17.357
+Author      : Yuekie
+Date        : 2018/08/18
+Change List :
++ add hardware reset count while start test fail.
++ add hardware reseting flag.
+********************************************
+
+********************************************
+SW version  : V1.26.17.356
+Author      : Yuekie
+Date        : 2018/08/17
+Change List :
+x fix receive reset board data bug.
+********************************************
+
+********************************************
+SW version  : V1.26.17.355
+Author      : Yuekie
+Date        : 2018/08/17
+Change List :
+* trim sync log.
+* update reset cmd.
+* reply robot query cmd immediately.
+********************************************
+
+********************************************
+SW version  : V1.26.17.354
+Author      : Yuekie
+Date        : 2018/08/14
+Change List :
+* set Prox state to error after hardware reset fail.
+* decrease reset delay time from 2000ms to 300ms.
+********************************************
+
+********************************************
+SW version  : V1.26.17.353
+Author      : Yuekie
+Date        : 2018/08/14
+Change List :
+* trim statemachine motion logic.
+********************************************
+
+********************************************
+SW version  : V1.26.17.352
+Author      : zhibin.zhang
+Date        : 2018/08/13
+Change List :
++ add auto hardware reset when fixture up or out fail
+********************************************
+
+********************************************
+SW version  : V1.26.17.351
+Author      : Yuekie
+Date        : 2018/08/13
+Change List :
+x fix reconnect robot bug.
+********************************************
+
+********************************************
+SW version  : V1.26.17.350
+Author      : zhibin.zhang
+Date        : 2018/08/13
+Change List :
+* new reset board
+- remove reset board2
+********************************************
+
+********************************************
+SW version  : V1.26.17.349
+Author      : zhibin.zhang
+Date        : 2018/08/11
+Change List :
++ add robot reconnect function,sync will keep run when robot disconnect.
+x fix reset bug
+********************************************
+
+********************************************
+SW version  : V1.26.17.348
+Author      : zhibin.zhang
+Date        : 2018/08/07
+Change List :
+x fix resetBoard callback bug
+********************************************
+
+********************************************
+SW version  : V1.26.17.347
+Author      : Yuekie
+Date        : 2018/08/06
+Change List :
+x fix sub UI status format bug.
+********************************************
+
+********************************************
+SW version  : V1.26.17.346
+Author      : zhibin.zhang
+Date        : 2018/08/06
+Change List :
+x fix reset command again
+********************************************
+
+********************************************
+SW version  : V1.26.17.345
+Author      : zhibin.zhang
+Date        : 2018/08/06
+Change List :
+x fix reset command
+********************************************
+
+********************************************
+SW version  : V1.26.17.344
+Author      : zhibin.zhang
+Date        : 2018/08/04
+Change List :
+x fix callback bug
+********************************************
+
+********************************************
+SW version  : V1.26.17.343
+Author      : zhibin.zhang
+Date        : 2018/08/03
+Change List :
+x fix config bug
+********************************************
+
+********************************************
+SW version  : V1.26.17.342
+Author      : zhibin.zhang
+Date        : 2018/08/03
+Change List :
++ add auto hardware reset
+********************************************
+
+********************************************
+SW version  : V1.26.17.341
+Author      : Yuekie
+Date        : 2018/08/02
+Change List :
+* trim hardware reset logic.
+********************************************
+
+********************************************
+SW version  : V1.26.17.340
+Author      : zhibin.zhang
+Date        : 2018/08/02
+Change List :
++ add when come out continuously 3 times fails in the slot1 test, send error to UI;
++ add hardware reset module
+********************************************
+
+********************************************
+SW version  : V1.26.17.339
+Author      : zhibin.zhang
+Date        : 2018/07/25
+Change List :
+x fix reset bug when reconnect robot
+********************************************
+
+********************************************
+SW version  : V1.26.17.338
+Author      : Yuekie
+Date        : 2018/07/25
+Change List :
+* reduce some communication timeout.
+********************************************
+
+********************************************
+SW version  : V1.26.17.337
+Author      : Yuekie
+Date        : 2018/07/24
+Change List :
+* optimize communication logic with robot.
+********************************************
+
+********************************************
+SW version  : V1.26.17.336
+Author      : Yuekie
+Date        : 2018/07/23
+Change List :
+* add sync communication log with robot.
+********************************************
+
+********************************************
+SW version  : V1.26.17.335
+Author      : Yuekie
+Date        : 2018/07/23
+Change List :
+- remove UI reply.
+- remove reset board relate code.
+* set Prox default status as Error.will clear after fixture reset.
+- remove sequencer data sub.
+* add fixture reset info sub.
+********************************************
+
+********************************************
+SW version  : V1.26.17.334
+Author      : Yuekie
+Date        : 2018/07/21
+Change List :
+x fix some motion fail did not report error.
+********************************************
+
+********************************************
+SW version  : V1.26.17.333
+Author      : zhibin.zhang
+Date        : 2018/07/20
+Change List :
+x fix reset bug when open tm
+********************************************
+
+********************************************
+SW version  : V1.26.17.332
+Author      : zhibin.zhang
+Date        : 2018/07/20
+Change List :
++ add reset fixture when open tm
+x fix auto reset bug
+* robot callback change to parse more then one message
+********************************************
+
+********************************************
+SW version  : V1.26.17.331
+Author      : zhibin.zhang
+Date        : 2018/07/19
+Change List :
++ add auto reset module
+********************************************
+
+********************************************
+SW version  : V1.26.17.330
+Author      : Yuekie
+Date        : 2018/07/17
+Change List :
+* set prox initial status as fail.
+********************************************
+
+********************************************
+SW version  : V1.26.17.329
+Author      : Yuekie
+Date        : 2018/07/16
+Change List :
+x only enable Prox status change while tester is not error.
+********************************************
+
+********************************************
+SW version  : V1.26.17.328
+Author      : Yuekie
+Date        : 2018/07/16
+Change List :
+x fix parse tester reset bug.
+********************************************
+
+********************************************
+SW version  : V1.26.17.327
+Author      : Yuekie
+Date        : 2018/07/16
+Change List :
+* add more sequencer sub data log.
+********************************************
+
+********************************************
+SW version  : V1.26.17.326
+Author      : Yuekie
+Date        : 2018/07/15
+Change List :
+* only “ERROR” status will skip the test start.
+********************************************
+
+********************************************
+SW version  : V1.26.17.325
+Author      : zhibin.zhang
+Date        : 2018/07/05
+Change List :
++ add uiREP for reset message
+- remove connect reset board
+********************************************
+
+********************************************
+SW version  : V1.26.17.324
+Author      : zhibin.zhang
+Date        : 2018/06/29
+Change List :
++ add fixture reset module
+********************************************
+
+********************************************
+SW version  : V1.26.17.323
+Author      : Yuekie
+Date        : 2018/06/25
+Change List :
+* trim semi and full auto code as two mode.
++ add control board unvarnished transmission for TM.
+********************************************
+
+********************************************
+SW version  : V1.26.17.322
+Author      : zhibin.zhang
+Date        : 2018/06/4
+Change List :
+* add Control Board modul
+********************************************
+
+********************************************
+SW version  : V1.26.17.298
+Author      : Yuekie
+Date        : 2018/03/26
+Change List :
+* add SM unload DUT state sub
+* trim process logic.
+********************************************
+
+********************************************
+SW version  : V1.26.17.286
+Author      : Yuekie
+Date        : 2018/03/14
+Change List :
+* update default zmqport file path.
+* rename executable file name as “TMSync_Prox”
+* disbale vbuf.
+********************************************
+
+********************************************
+SW version  : V1.26.17.281
+Author      : wenliang.dang
+Date        : 2018/03/09
+Change List :
+* first version for Prox.
+********************************************

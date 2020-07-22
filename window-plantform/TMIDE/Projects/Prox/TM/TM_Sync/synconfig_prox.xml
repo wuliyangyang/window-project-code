@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	
+	<ConfigVersion  version="1.16.0.0" />
+
+	<GreenTea timeout="6000">
+		<Name>COM3</Name>
+		<BaudRate>115200</BaudRate>
+		<Parity>0</Parity>
+		<DataBits>8</DataBits>
+		<StopBits>1</StopBits>
+	</GreenTea>
+	
+	<Gimbal timeout="10000">
+		<ServerIp>192.168.0.69</ServerIp>
+		<Port>5000</Port>
+		<ZMQRep ip="127.0.0.1" port="8000"/>
+	</Gimbal>
+	
+	<!--
+		针对扫码命令格式不统一，有的是<T> 有的是<T>\r\n.
+		为了兼容这种情况，增加CommandEndWithCRLF属性设置，取值"true" "false" 不设置该属性，默认CommandEndWithCRLF取false
+	 -->
+
+	<Scanner timeout="6000" CommandEndWithCRLF="true">
+		<Name>COM2</Name>
+		<BaudRate>115200</BaudRate>
+		<Parity>0</Parity>
+		<DataBits>8</DataBits>
+		<StopBits>1</StopBits>
+	</Scanner>
+	
+	<TcpScanner timeout="2000">
+		<ServerIp>192.168.3.2</ServerIp>
+		<Port>23</Port>
+	</TcpScanner>
+
+  	<Robot timeout="2000">
+    	<ServerIp>192.168.0.205</ServerIp>
+    	<Port>9500</Port>
+  	</Robot>
+	
+  	<ControlBoard timeout="3000">
+  		<Name>ConBoard</Name>
+		<BaudRate>115200</BaudRate>
+		<Parity>0</Parity>
+		<DataBits>8</DataBits>
+		<StopBits>1</StopBits>
+	</ControlBoard>
+
+	<ResetBoard timeout="3000">
+  		<Name>Resetboard</Name>
+		<BaudRate>115200</BaudRate>
+		<Parity>0</Parity>
+		<DataBits>8</DataBits>
+		<StopBits>1</StopBits>
+	</ResetBoard>
+
+	<ResetBoard2 timeout="3000">
+  		<Name>Resetboard2</Name>
+		<BaudRate>115200</BaudRate>
+		<Parity>0</Parity>
+		<DataBits>8</DataBits>
+		<StopBits>1</StopBits>
+	</ResetBoard2>
+
+	<TM>
+		<ZMQReq ip="127.0.0.1" port="6480"/>
+    	<ZMQ2Req ip="127.0.0.1" port="6481"/>
+		<ZMQSub ip="127.0.0.1" port="6880"/>
+		<UIReq ip="127.0.0.1" port="9000"/>
+		<ZMQSequencerSub ip="127.0.0.1" port="6250"/>
+  	</TM>
+	
+	<!--type:"C1,C2,C3,C4,C6(GreenTea)" or "(C5)(Gimbal)"; scannerType: 1: autoscan(Scanner), 0:handscan; 2:TcpScaner; slot:"CH1","CH2"-->
+	<TesterId>
+		<Item ip="192.168.3.1" type="C4" name="CH1" scannerType="2"/>
+	</TesterId>
+</Config>

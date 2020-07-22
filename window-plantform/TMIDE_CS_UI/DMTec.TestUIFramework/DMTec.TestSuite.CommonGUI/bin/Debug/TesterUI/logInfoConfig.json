@@ -1,0 +1,19 @@
+{
+  "Slots": 4,
+  "IsEnableLog": true,
+
+  "Devices": [
+    {
+      "DeviceName": "Fixture",
+      "Port": 7020,
+    },
+    {
+      "DeviceName": "TCP",
+      "Port": 6820,
+    },
+    {
+      "DeviceName": "Lua",
+      "Port": 6720,
+    }
+  ]
+}

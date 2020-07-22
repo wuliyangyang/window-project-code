@@ -1,0 +1,79 @@
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.GUI.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\DM_Test_UI_FrameWork_CSharp\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.GUI.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.GUI.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\MY\CodeProject\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.GUI.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\air_test_ pressure\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.GUI.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestSuite.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TMListener.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\TestDataProcessor.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\ZeroMQ.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\bin\Debug\DMTec.TestUIFramework.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.GUI.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.Properties.Resources.resources
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.exe
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI - 副本\DMTec.TestUIFramework\DMTec.TestSuite\obj\Debug\DMTec.TestSuite.pdb

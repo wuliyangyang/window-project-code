@@ -1,0 +1,8 @@
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Release\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Release\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Release\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\CodeProject\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Release\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Release\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\bin\Release\DMTec.TestUIFramework.MessageCenter.pdb
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Release\DMTec.TestUIFramework.MessageCenter.dll
+C:\Users\wiliyangyang\Desktop\Air\TMIDE_CS_UI\DMTec.TestUIFramework\DMTec.TestUIFramework.MessageCenter\obj\Release\DMTec.TestUIFramework.MessageCenter.pdb

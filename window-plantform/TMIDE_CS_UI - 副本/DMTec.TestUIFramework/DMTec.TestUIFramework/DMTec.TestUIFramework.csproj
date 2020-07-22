@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68ED9DE8-FDDC-4531-B873-AB8D861DDC0A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DMTec.TestUIFramework</RootNamespace>
+    <AssemblyName>DMTec.TestUIFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Dlls\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Dlls\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TestDataProcessor">
+      <HintPath>..\..\Dlls\TestDataProcessor.dll</HintPath>
+    </Reference>
+    <Reference Include="TMListener">
+      <HintPath>..\..\Dlls\TMListener.dll</HintPath>
+    </Reference>
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\..\Dlls\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZeroMQ">
+      <HintPath>..\..\Dlls\ZeroMQ.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdvancedForms\ImageShowDockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvancedForms\ImageShowDockForm.Designer.cs">
+      <DependentUpon>ImageShowDockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicAlgorithm\HashEncrypt.cs" />
+    <Compile Include="AdvancedControls\ChamberUnit_NoLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedControls\CSVFileLister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedControls\CSVFileLister.Designer.cs">
+      <DependentUpon>CSVFileLister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedControls\FlexChamberUnitControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedControls\FlexChamberUnitControl.designer.cs">
+      <DependentUpon>FlexChamberUnitControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedForms\FlexChamberUnit_OutsideDUT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvancedForms\FlexChamberUnit_OutsideDUT.designer.cs">
+      <DependentUpon>FlexChamberUnit_OutsideDUT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attributes\CustomAttribute.cs" />
+    <Compile Include="BasicAlgorithm\MD5Helper.cs" />
+    <Compile Include="BasicControls\AutoSizeFontLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\GenericLedPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\GenericLedPanel.Designer.cs">
+      <DependentUpon>GenericLedPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\LED\EngineHeartbeatLedLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\LoggerTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\LoggerTabControl.Designer.cs">
+      <DependentUpon>LoggerTabControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\SeqListenerTabPageLoggerTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\SequenceHeartbeatLedLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\StateMachineHeartbeatLedLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\NamedLed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\NamedLed.Designer.cs">
+      <DependentUpon>NamedLed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\LED\SignalLamp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\SNScanner.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\SNScanner.Designer.cs">
+      <DependentUpon>SNScanner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\StatusLight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\StatusLight.Designer.cs">
+      <DependentUpon>StatusLight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\LED\TMHeartbeatLamp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\TODO\EngineConnectorLoggerTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\GroupDataGridView\GridDataRowComparer.cs" />
+    <Compile Include="BasicControls\GroupDataGridView\GroupDataGridViewRow.cs" />
+    <Compile Include="BasicControls\GroupDataGridView\DataGridGroup.cs" />
+    <Compile Include="BasicControls\LED\LedArrayPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\LedArrayPanel.Designer.cs">
+      <DependentUpon>LedArrayPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\LED\LedLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\SeqListenerLoggerTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\SequencerListenerUserLogTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\StationHeartbeatPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LED\StationHeartbeatPanel.designer.cs">
+      <DependentUpon>StationHeartbeatPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\ChamberSimpleInfoPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\ChamberSimpleInfoPanel.Designer.cs">
+      <DependentUpon>ChamberSimpleInfoPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\DutSNInputPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicControls\DutSNInputPanel.designer.cs">
+      <DependentUpon>DutSNInputPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedForms\FlexChamberUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvancedForms\FlexChamberUnit.designer.cs">
+      <DependentUpon>FlexChamberUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedControls\Tester.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AdvancedControls\Tester.designer.cs">
+      <DependentUpon>Tester.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedControls\TesterSimple.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedControls\TesterSimple.designer.cs">
+      <DependentUpon>TesterSimple.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedControls\TesterUnit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedControls\TesterUnit.designer.cs">
+      <DependentUpon>TesterUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedControls\SequenceList_MultiDuts.cs" />
+    <Compile Include="BasicControls\AutoSizeFontTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\IPBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\IPBox.Designer.cs">
+      <DependentUpon>IPBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForms\SnInputDockPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForms\SnInputDockPanel.Designer.cs">
+      <DependentUpon>SnInputDockPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataModel\InternalMessageTypeEnum.cs" />
+    <Compile Include="DataModel\SystemConfigInfo.cs" />
+    <Compile Include="DataModel\ZmqPortInfo.cs" />
+    <Compile Include="ZLoggerListener\LoggerListener.cs" />
+    <Compile Include="MultiThreadComponent\AsyncTaskMessageBox.cs" />
+    <Compile Include="MultiThreadComponent\MultiThreadBindingList.cs" />
+    <Compile Include="BasicControls\StatisticInfoPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\StatisticInfoPanel.Designer.cs">
+      <DependentUpon>StatisticInfoPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\TabPageLogger.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\UUT\UUT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\UUT\UUT.Designer.cs">
+      <DependentUpon>UUT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\UUT\UutStateArrayPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\UUT\UutStateArrayPanel.Designer.cs">
+      <DependentUpon>UutStateArrayPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForms\ChamberUnitDockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForms\ChamberUnitDockForm.designer.cs">
+      <DependentUpon>ChamberUnitDockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\LoggerTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicControls\GroupDataGridView\GroupItemGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BasicForms\DockSequenceItemsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForms\DockSequenceItemsList.designer.cs">
+      <DependentUpon>DockSequenceItemsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\DUT_SKT_BarcodeInputBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\DUT_SKT_BarcodeInputBar.designer.cs">
+      <DependentUpon>DUT_SKT_BarcodeInputBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\ChamberHeartbeatPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\ChamberHeartbeatPanel.designer.cs">
+      <DependentUpon>ChamberHeartbeatPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\ColorBulb.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\ColorBulb.designer.cs">
+      <DependentUpon>ColorBulb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\OutsideDutStatusPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\OutsideDutStatusPanel.designer.cs">
+      <DependentUpon>OutsideDutStatusPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\HardwareInfoPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\HardwareInfoPanel.designer.cs">
+      <DependentUpon>HardwareInfoPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\LastResultPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\LastResultPanel.designer.cs">
+      <DependentUpon>LastResultPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\TitleBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\TitleBar.designer.cs">
+      <DependentUpon>TitleBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForms\AboutWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForms\AboutWindow.designer.cs">
+      <DependentUpon>AboutWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\ChamberSimple.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\ChamberSimple.designer.cs">
+      <DependentUpon>ChamberSimple.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\ChamberConfigPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\ChamberConfigPanel.designer.cs">
+      <DependentUpon>ChamberConfigPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\ChamberUnit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\ChamberUnit.designer.cs">
+      <DependentUpon>ChamberUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\DUT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\DUT.designer.cs">
+      <DependentUpon>DUT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForms\frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForms\frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForms\LoginWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForms\LoginWindow.designer.cs">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\LoggerWindow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\Loggers\LoggerWindow.designer.cs">
+      <DependentUpon>LoggerWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForms\MessageBoxEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForms\MessageBoxEx.designer.cs">
+      <DependentUpon>MessageBoxEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForms\OperatorIdInputWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForms\OperatorIdInputWindow.designer.cs">
+      <DependentUpon>OperatorIdInputWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\SequenceItemsLister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BasicControls\SequenceItemsLister.designer.cs">
+      <DependentUpon>SequenceItemsLister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessClasses\FlexPublisher.cs" />
+    <Compile Include="CommonAPI\BinConverter.cs" />
+    <Compile Include="CommonAPI\CsvHelper.cs" />
+    <Compile Include="CommonAPI\IniHelper.cs" />
+    <Compile Include="CommonAPI\JsonHelper.cs" />
+    <Compile Include="CommonAPI\ModelConvertHelper.cs" />
+    <Compile Include="Common\Consts.cs" />
+    <Compile Include="Common\Globals.cs" />
+    <Compile Include="DataModel\DataModels.cs" />
+    <Compile Include="Common\Delegates.cs" />
+    <Compile Include="DataModel\Enums.cs" />
+    <Compile Include="Interface\IController.cs" />
+    <Compile Include="Interface\ILedLabel.cs" />
+    <Compile Include="Interface\ILogger.cs" />
+    <Compile Include="Interface\ILoggerTextBox.cs" />
+    <Compile Include="BasicControls\GroupDataGridView\ISortDataGridGroup.cs" />
+    <Compile Include="Interface\ITitleBar.cs" />
+    <Compile Include="Interface\ITMPlugin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="BasicControls\GroupDataGridView\TestItemGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BasicControls\SNScanner\" />
+    <Folder Include="DockControl\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdvancedControls\CSVFileLister.resx">
+      <DependentUpon>CSVFileLister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedControls\FlexChamberUnitControl.resx">
+      <DependentUpon>FlexChamberUnitControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedForms\FlexChamberUnit_OutsideDUT.resx">
+      <DependentUpon>FlexChamberUnit_OutsideDUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedForms\ImageShowDockForm.resx">
+      <DependentUpon>ImageShowDockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\LED\GenericLedPanel.resx">
+      <DependentUpon>GenericLedPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\LED\LedArrayPanel.resx">
+      <DependentUpon>LedArrayPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\LED\LedLabel.resx">
+      <DependentUpon>LedLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\Loggers\LoggerTabControl.resx">
+      <DependentUpon>LoggerTabControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\LED\NamedLed.resx">
+      <DependentUpon>NamedLed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\SNScanner.resx">
+      <DependentUpon>SNScanner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\LED\StationHeartbeatPanel.resx">
+      <DependentUpon>StationHeartbeatPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\ChamberSimpleInfoPanel.resx">
+      <DependentUpon>ChamberSimpleInfoPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\DutSNInputPanel.resx">
+      <DependentUpon>DutSNInputPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedForms\FlexChamberUnit.resx">
+      <DependentUpon>FlexChamberUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedControls\TesterSimple.resx">
+      <DependentUpon>TesterSimple.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedControls\TesterUnit.resx">
+      <DependentUpon>TesterUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\IPBox.resx">
+      <DependentUpon>IPBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\StatisticInfoPanel.resx">
+      <DependentUpon>StatisticInfoPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\StatusLight.resx">
+      <DependentUpon>StatusLight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\UUT\UUT.resx">
+      <DependentUpon>UUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\UUT\UutStateArrayPanel.resx">
+      <DependentUpon>UutStateArrayPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForms\ChamberUnitDockForm.resx">
+      <DependentUpon>ChamberUnitDockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForms\DockSequenceItemsList.resx">
+      <DependentUpon>DockSequenceItemsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\DUT_SKT_BarcodeInputBar.resx">
+      <DependentUpon>DUT_SKT_BarcodeInputBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\ChamberHeartbeatPanel.resx">
+      <DependentUpon>ChamberHeartbeatPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\OutsideDutStatusPanel.resx">
+      <DependentUpon>OutsideDutStatusPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\HardwareInfoPanel.resx">
+      <DependentUpon>HardwareInfoPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\LastResultPanel.resx">
+      <DependentUpon>LastResultPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\TitleBar.resx">
+      <DependentUpon>TitleBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForms\AboutWindow.resx">
+      <DependentUpon>AboutWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\ChamberSimple.resx">
+      <DependentUpon>ChamberSimple.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\ChamberConfigPanel.resx">
+      <DependentUpon>ChamberConfigPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\ChamberUnit.resx">
+      <DependentUpon>ChamberUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\DUT.resx">
+      <DependentUpon>DUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForms\frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForms\LoginWindow.resx">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\Loggers\LoggerWindow.resx">
+      <DependentUpon>LoggerWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForms\MessageBoxEx.resx">
+      <DependentUpon>MessageBoxEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForms\OperatorIdInputWindow.resx">
+      <DependentUpon>OperatorIdInputWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicControls\SequenceItemsLister.resx">
+      <DependentUpon>SequenceItemsLister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForms\SnInputDockPanel.resx">
+      <DependentUpon>SnInputDockPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Common\Readme.txt" />
+    <None Include="Resources\splashImage.png" />
+    <None Include="Icons\SecurityAndMaintenance_Error.png" />
+    <None Include="Icons\SecurityAndMaintenance_Alert.png" />
+    <None Include="Icons\SecurityAndMaintenance.png" />
+    <None Include="Icons\if_.svg_2093659.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DMTec.TestUIFramework.MessageCenter\DMTec.TestUIFramework.MessageCenter.csproj">
+      <Project>{9538c01d-aa5d-451f-994f-1a574b21f3ff}</Project>
+      <Name>DMTec.TestUIFramework.MessageCenter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

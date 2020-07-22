@@ -1,0 +1,70 @@
+{
+    "modules": 2,
+    "processes": [
+        {
+            "args": "-u slot -m module -s slots -d $(ProjectWorkDir)\\TM -f $(ZmqPortFileFullPath) -e 0",
+            "bin": "TestEngine\\test_engine.lua",
+            "execute": "$(ProjectWorkDir)\\lua\\lua",
+            "name": "Engine",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "-u slot -m module -s slots -c -f  $(ZmqPortFileFullPath)",
+            "bin": "sequencer\\sequencer",
+            "execute": "",
+            "name": "Sequencer",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "-m module -s slots -f  $(ZmqPortFileFullPath) -z 3",
+            "bin": "StateMachine\\StateMachine.lua",
+            "execute": "$(ProjectWorkDir)\\lua\\lua",
+            "name": "StateMachine",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "-u slot -m module -s slots -f  $(ZmqPortFileFullPath)",
+            "bin": "DataLogger\\Logger.lua",
+            "execute": "$(ProjectWorkDir)\\lua\\lua",
+            "name": "DataLogger",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "-m modules -s slots -f  $(ZmqPortFileFullPath) -p $(CsvFileFullPath)",
+            "bin": "CsvLoader\\CsvLoader.lua",
+            "execute": "$(ProjectWorkDir)\\lua\\lua",
+            "name": "ZCsvLoader",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "",
+            "bin": "LogRemover\\LogRemover.lua",
+            "execute": "$(ProjectWorkDir)\\lua\\lua",
+            "name": "LogRemover",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "modules slots $(ZmqPortFileFullPath) $(CsvFileFullPath) 2",
+            "bin": "ProxUI\\DMTec.TestSuite.GUI",
+            "execute": "",
+            "name": "ZProxUI",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        },
+        {
+            "args": "$(ZmqPortFileFullPath)",
+            "bin": "TM_Sync\\TMSync_Prox",
+            "execute": "",
+            "name": "ZTMSync",
+            "path": "$(ProjectWorkDir)\\TM",
+            "sleep": 1
+        }
+    ],
+    "slots": 1
+}
